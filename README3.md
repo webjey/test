@@ -67,7 +67,7 @@ hmm another try
 this si another try... might be my last.
 
 
-
+this is the 3rd readme added
 The following resources for the API are covered:
 
  * [Users API](http://developer.github.com/v3/users/)
