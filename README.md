@@ -5,14 +5,8 @@ Currently under construction.
 ## Overview
  
 
-this is the 3rd commits
+this is the 4th commits
 
-
-yes
-
-this is 3rd
-
-sigh
 
 Provides access to [GitHub API v3](http://developer.github.com/) via an Object
 Oriented PHP library.
