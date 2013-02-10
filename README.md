@@ -5,7 +5,7 @@ Currently under construction.
 ## Overview
  
 
-this is the 4th commits
+this is my 5th commits
 
 
 Provides access to [GitHub API v3](http://developer.github.com/) via an Object
@@ -17,6 +17,7 @@ around the GitHub API v3. This is achieved using a number of methods:
  * Method chaining to request the resources you require
  * Consistent interface for [C]reate (create), [R]etrieve (all|get), [U]pdate (update), [D]elete (delete)
  * Abstracting the specific details of the GitHub API
+
 
 ```php
     use GitHub\API\User\User;
