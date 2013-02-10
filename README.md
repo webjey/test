@@ -43,6 +43,10 @@ around the GitHub API v3. This is achieved using a number of methods:
     $user->keys()->update(44, 'New key title', 'ssh-rsa ABCDEF');
 ```
 
+added
+
+another
+
 ### GitHub API Coverage
 
 The following resources for the API are covered:
