@@ -629,3 +629,6 @@ Delete a gist comment for the authenticated user. Returns `TRUE` if gist comment
 ```php
     $response = $gist->comments()->delete(1);
 ```
+
+
+******************* this was modified in master ***********************
